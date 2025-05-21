@@ -57,11 +57,19 @@
 		"font"	"HudFontSmallBold"	"visible"	"1"	"enabled"	"1"	"Command"	"back"
 		"default"	"0"	"pinCorner"	"3"
 		"sound_depressed"	"UI/buttonclick.wav"	"sound_released"	"UI/buttonclickrelease.wav"
-	}		
+	}
 	"NotificationsPresentPanel"
 	{
 		"ControlName"	"CNotificationsPresentPanel"	"fieldName"	"NotificationsPresentPanel"
 		"xpos"	"r200"	"ypos"	"10"	"zpos"	"10000"	"wide"	"190"	"tall"	"50"
 		"visible"	"0"	"enabled"	"1"
+	}
+		"BackButtonEX"
+	{
+		"ControlName"	"CExButton"	"fieldName"	"BackButtonEX"
+		"xpos"	"9999"	"ypos"	"437"	"zpos"	"2"	"wide"	"0"	"tall"	"0"	"labelText"	"&Q"	"textAlignment"	"center"
+		"font"	"HudFontSmallBold"	"visible"	"1"	"enabled"	"1"	"Command"	"back"
+		"default"	"0"	"pinCorner"	"3"
+		"sound_depressed"	"UI/buttonclick.wav"	"sound_released"	"UI/buttonclickrelease.wav"
 	}
 }
