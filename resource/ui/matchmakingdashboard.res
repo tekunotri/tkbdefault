@@ -804,7 +804,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"6"
+				"xpos"			"7"
 				"ypos"			"10"
 				"zpos"			"1"
 				"wide"			"14"
