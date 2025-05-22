@@ -305,14 +305,15 @@
 	{
 		"fieldName" "VguiScreenCursor" "xpos" "9999" "visible" "0" "enabled" "0"	
 	}		
-	"CSecondaryTargetID"
-	{
-		"fieldName" "CSecondaryTargetID" "ypos" "9999" "visible" "0" "enabled" "0"	
-	}
-	"CSpectatorTargetID"
-	{
-		"fieldName" "CSpectatorTargetID" "ypos" "9999" "visible" "0" "enabled" "0"	
-	}
+	//i restored these
+//	"CSecondaryTargetID"
+//	{
+//		"fieldName" "CSecondaryTargetID" "ypos" "9999" "visible" "0" "enabled" "0"	
+//	}
+//	"CSpectatorTargetID"
+//	{
+//		"fieldName" "CSpectatorTargetID" "ypos" "9999" "visible" "0" "enabled" "0"	
+//	}
 	"QueueHUDStatus"
 	{
 		"fieldName" "QueueHUDStatus" "ypos" "9999" "visible" "0" "enabled" "0"	

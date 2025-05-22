@@ -79,7 +79,6 @@
 		"ypos_hidef"	"79"
 		"ypos_lodef"	"85"
 		"wide"			"600"	[$WIN32]
-		"wide_minbad"	"300"
 		"wide"			"400"	[$X360]
 		"tall"			"18"
 		"tall_hidef"		"23"

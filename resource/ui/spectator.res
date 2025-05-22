@@ -13,6 +13,7 @@
 	}
 	"ReinforcementsLabel"
 	{
+		"font"			"HudFontSmallBoldShadow"
 	}
 	"BuyBackLabel"
 	{

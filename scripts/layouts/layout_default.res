@@ -71,7 +71,7 @@
 
 	"HudDeathNotice"
 	{
-		"xpos" "r619" "ypos" "13" "wide" "628" "tall" "468"
+		"xpos" "r622" "ypos" "13" "wide" "628" "tall" "468"
 		"visible" "1" "enabled" "1"
 
 		"MaxDeathNotices" "12" "IconScale" "0.35" "LineHeight" "12" "LineSpacing" "0" "CornerRadius" "4" "RightJustify" "1"	
@@ -260,6 +260,29 @@
 		"tall" "f0"
 		"visible" "1"
 		"enabled" "1"
+	}
+	
+	CSpectatorTargetID
+	{
+		"fieldName" 	"CSpectatorTargetID"
+		"visible" 	"0"
+		"enabled" 	"1"
+		"xpos"		"c-126"
+		"ypos"		"250"
+		"wide"	 	"252"
+		"tall"	 	"35"
+		"x_offset" "20"
+		"y_offset" "20"
+	}
+	
+	CSecondaryTargetID
+	{
+		"fieldName" 	"CSecondaryTargetID"	"visible" 	"0"		"enabled" 	"1"
+		"xpos"		"c-126"
+		"ypos"		"335"
+		"wide"	 	"252"
+		"tall"	 	"35"
+		"priority"	"35"
 	}
 }
 

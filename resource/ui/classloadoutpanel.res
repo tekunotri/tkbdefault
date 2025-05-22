@@ -511,7 +511,7 @@
         "ControlName"                "CLoadoutPresetPanel"
         "FieldName"                    "loadout_preset_panel"
         "xpos"                        "0"
-        "zpos"                        "8920"
+        "zpos"                        "0"
         "wide"                        "150"
         "tall"                        "135"
         "visible"                    "1"
