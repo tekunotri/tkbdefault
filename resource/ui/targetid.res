@@ -12,6 +12,7 @@
 		"ControlName"	"CExLabel"	"fieldName"	"TargetDataLabel"
 		"visible"	"1"	"enabled"	"1"
 		"xpos"	"8" "ypos"	"15" "wide"	"280"	"tall"	"15"	"labelText"	"%targetdata%"
+		"font"	"targetdata" //shadowed, verdana 9
 		//"disabledfgcolor2_override"		"Blank"
 	}
 
