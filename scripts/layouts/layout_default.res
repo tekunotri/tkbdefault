@@ -185,11 +185,10 @@
 		"tall" "200"
 		"visible" "1"
 		"enabled" "1"
-		"separator_width" "9"	// distance between the icons (including their backgrounds)
-		"separator_height" "7"
+		"separator_width" "1"	// distance between the icons (including their backgrounds)
+		"separator_height" "1"
 		"height_offset" "0"	 	// distance from the bottom of the panel
 	}
-
 	"HudChat"
 	{
 		"ControlName" "EditablePanel"

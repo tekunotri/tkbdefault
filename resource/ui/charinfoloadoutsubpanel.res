@@ -142,16 +142,16 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"LoadoutChangesLabel"
 		"font"			"HudFontSmallBold"
-		"labelText"		"#LoadoutChangesUpdate"
+		"labelText"		"lol"
 		"textAlignment"	"north"
-		"xpos"			"0"
+		"xpos"			""
 		"ypos"			"35"
 		"zpos"			"1"
-		"wide"			"f0"
+		"wide"			"0"
 		"tall"			"30"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
 	}
@@ -284,6 +284,15 @@
 		"wide"										"0"
 		"tall"										"0"
 	}
+	"ScoutSelectNumber"
+	{
+		"ControlName"								"CExButton"
+		"fieldName"									"ScoutSelectNumber"
+		"xpos"										"9999"
+		"labelText"									"&1"
+		"Command"									"loadout scout"
+		"visible"									"1"
+	}
 	"SoldierCustom"
 	{
 		"ControlName"								"EditablePanel"
@@ -365,6 +374,15 @@
 		"inactiveimage"								""
 		"wide"										"0"
 		"tall"										"0"
+	}
+	"SoldierSelectNumber"
+	{
+		"ControlName"								"CExButton"
+		"fieldName"									"SoldierSelectNumber"
+		"xpos"										"9999"
+		"labelText"									"&2"
+		"Command"									"loadout soldier"
+		"visible"									"1"
 	}
 	"PyroCustom"
 	{
@@ -448,6 +466,15 @@
 		"wide"										"0"
 		"tall"										"0"
 	}
+	"PyroSelectNumber"
+	{
+		"ControlName"								"CExButton"
+		"fieldName"									"PyroSelectNumber"
+		"xpos"										"9999"
+		"labelText"									"&3"
+		"Command"									"loadout pyro"
+		"visible"									"1"
+	}
 	"DemoCustom"
 	{
 		"ControlName"								"EditablePanel"
@@ -529,6 +556,15 @@
 		"inactiveimage"								""
 		"wide"										"0"
 		"tall"										"0"
+	}
+	"DemomanSelectNumber"
+	{
+		"ControlName"								"CExButton"
+		"fieldName"									"DemomanSelectNumber"
+		"xpos"										"9999"
+		"labelText"									"&4"
+		"Command"									"loadout demoman"
+		"visible"									"1"
 	}
 	"HeavyCustom"
 	{
@@ -612,6 +648,15 @@
 		"wide"										"0"
 		"tall"										"0"
 	}
+	"HeavySelectNumber"
+	{
+		"ControlName"								"CExButton"
+		"fieldName"									"HeavySelectNumber"
+		"xpos"										"9999"
+		"labelText"									"&5"
+		"Command"									"loadout heavy"
+		"visible"									"1"
+	}
 	"EngineerCustom"
 	{
 		"ControlName"								"EditablePanel"
@@ -693,6 +738,15 @@
 		"inactiveimage"								""
 		"wide"										"0"
 		"tall"										"0"
+	}
+	"EngineerSelectNumber"
+	{
+		"ControlName"								"CExButton"
+		"fieldName"									"EngineerSelectNumber"
+		"xpos"										"9999"
+		"labelText"									"&6"
+		"Command"									"loadout engineer"
+		"visible"									"1"
 	}
 	"MedicCustom"
 	{
@@ -776,6 +830,15 @@
 		"wide"										"0"
 		"tall"										"0"
 	}
+	"MedicSelectNumber"
+	{
+		"ControlName"								"CExButton"
+		"fieldName"									"MedicSelectNumber"
+		"xpos"										"9999"
+		"labelText"									"&7"
+		"Command"									"loadout medic"
+		"visible"									"1"
+	}
 	"SniperCustom"
 	{
 		"ControlName"								"EditablePanel"
@@ -858,6 +921,15 @@
 		"wide"										"0"
 		"tall"										"0"
 	}
+	"SniperSelectNumber"
+	{
+		"ControlName"								"CExButton"
+		"fieldName"									"SniperSelectNumber"
+		"xpos"										"9999"
+		"labelText"									"&8"
+		"Command"									"loadout sniper"
+		"visible"									"1"
+	}
 	"SpyCustom"
 	{
 		"ControlName"								"EditablePanel"
@@ -939,6 +1011,15 @@
 		"inactiveimage"								""
 		"wide"										"0"
 		"tall"										"0"
+	}
+	"SpySelectNumber"
+	{
+		"ControlName"								"CExButton"
+		"fieldName"									"SpySelectNumber"
+		"xpos"										"9999"
+		"labelText"									"&9"
+		"Command"									"loadout spy"
+		"visible"									"1"
 	}
 	"ShowBackpackButton"
 	{

@@ -3,7 +3,7 @@
 	"HudObjectiveStatus"
 	{
 		"fieldName" "HudObjectiveStatus"
-		"xpos"	"0" "ypos"	"0" "wide"	"f0" "tall"	"480"
+		"xpos"	"0'" "ypos"	"0" "wide"	"f0" "tall"	"480"
 		"visible" "1" "enabled" "1"
 	}	
 
@@ -42,7 +42,7 @@
 		"zpos"										"0"
 		"wide"										"80"
 		"tall"										"4"
-		"visible"									"0"
+		"visible"									"1"
 		"enabled"									"1"
 		"scaleImage"								"1"
 		"image"										""
@@ -159,7 +159,7 @@
 			"zpos"									"1"
 			"wide"									"17"
 			"tall"									"17"
-			"visible"								"0"
+			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
 			"labelText"								""
@@ -179,7 +179,7 @@
 			"zpos"									"4"
 			"wide"									"17"
 			"tall"									"12"
-			"visible"								"0"
+			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
 			"font"									"CapPlayerFontSmall"

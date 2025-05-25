@@ -6,14 +6,14 @@
 
 <details>
 <summary>changes on this fork</summary>
-<br>
-4:3 compat on loadout (bit broken in 16:9... but working nonetheless)
 
-some qol binds and such
+* general 4:3 compatibility on loadout (no before you ask i dont care about the inventory)
 
-restored targetids
+some qol binds for some places (map select& motd, loadout, wherever possible really)
 
-wip: restored 5cp stuff (im tired rn...)
+restored some stuff like
+* targetids
+* objectives
 
 some other tweaks here and there
 

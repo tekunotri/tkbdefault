@@ -1,0 +1,1 @@
+#base "base/controlpointicon.res"
