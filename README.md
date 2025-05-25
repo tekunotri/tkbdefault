@@ -9,12 +9,10 @@
 
 * general 4:3 compatibility on loadout (no before you ask i dont care about the inventory)
 
-some qol binds for some places (map select& motd, loadout, wherever possible really)
+* some qol binds for some places (map select& motd, loadout, wherever possible really)
 
-restored some stuff like
-* targetids
-* objectives
+* restored some stuff useful for gameplay but not demo recording
 
-some other tweaks here and there
+* some other tweaks here and there
 
 </details>
