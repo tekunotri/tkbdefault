@@ -45,7 +45,18 @@
 				"weight"	    "800"				
 				"antialias"     "1"
 			}
-		} 		
+		}
+		"targetdata"
+		{
+			"1"
+			{
+				"name"		    "Verdana"
+				"tall"		    "9"
+				"weight"	    "800"				
+				"antialias"     "1"
+				"dropshadow"    "1"
+			}
+		} 	 		
 		"verdana 12"
 		{
 			"1"
