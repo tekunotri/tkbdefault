@@ -8,8 +8,7 @@
 <summary>changes on this fork</summary>
 
 * ~~general 4:3 compatibility on loadout (no before you ask i dont care about the inventory)~~
-<br>
-nevermind it got removed, [tkberia-oldloadout](https://github.com/tekunotri/tkbdefault/tree/tkberia-oldloadout) branch has it if you care
+<br>nevermind it got removed, [tkberia-oldloadout](https://github.com/tekunotri/tkbdefault/tree/tkberia-oldloadout) branch has it if you care
 
 * some qol binds for some places (map select& motd, loadout, wherever possible really)
 
