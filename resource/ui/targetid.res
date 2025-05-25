@@ -10,9 +10,9 @@
 	"TargetDataLabel"
 	{
 		"ControlName"	"CExLabel"	"fieldName"	"TargetDataLabel"
-		"visible"	"0"	"enabled"	"0"
-		"xpos"	"9999"	"wide"	"0"	"tall"	"0"	"labelText"	""
-		"disabledfgcolor2_override"		"Blank"
+		"visible"	"1"	"enabled"	"1"
+		"xpos"	"8" "ypos"	"15" "wide"	"280"	"tall"	"15"	"labelText"	"%targetdata%"
+		//"disabledfgcolor2_override"		"Blank"
 	}
 
 	"TargetIDBG"
@@ -27,7 +27,7 @@
 	"TargetNameLabel"
 	{
 		"ControlName"	"Label"	"fieldName"	"TargetNameLabel"
-		"xpos"	"0"	"ypos"	"-2"	"zpos"	"2"	"wide"	"640"	"tall"	"32"	"labelText"	"%targetname%"	"textAlignment"	"west"
+		"xpos"	"0"	"ypos"	"-3"	"zpos"	"2"	"wide"	"640"	"tall"	"32"	"labelText"	"%targetname%"	"textAlignment"	"west"
 		"font"	"verdana 12"	"visible"	"1"	"enabled"	"1"
 	}
 	"TargetNameLabelShadow"
