@@ -7,6 +7,8 @@
 <details>
 <summary>changes on this fork</summary>
 
+* has the old inventory
+
 * general 4:3 compatibility on loadout (no before you ask i dont care about the inventory)
 
 * some qol binds for some places (map select& motd, loadout, wherever possible really)
